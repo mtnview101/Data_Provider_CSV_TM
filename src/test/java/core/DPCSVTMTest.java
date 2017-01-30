@@ -8,7 +8,7 @@ import org.testng.ITest;
 import org.testng.annotations.*;
 
 public class DPCSVTMTest implements ITest{               // String csvFile = "./src/main/resources/input.csv";
-       /*String csvFile = System.getProperty("testcases"); // mvn site -Dtestcases="./input.csv"*/       
+       /*String csvFile = System.getProperty("testcases"); // mvn site -Dtestcases="./input.csv"*/  //ha-ha     
 	   String csvFile = "./src/main/resources/input.csv";
        private String test_name = "";
        public String getTestName()             {return test_name;}

@@ -5,8 +5,7 @@
     <classes>
       <class name="core.DPCSVTMTest">
         <methods>
-          <include name="bm"/>
-          <include name="test" invocation-numbers="3"/>
+          <include name="test"/>
         </methods>
       </class> <!-- core.DPCSVTMTest -->
     </classes>
